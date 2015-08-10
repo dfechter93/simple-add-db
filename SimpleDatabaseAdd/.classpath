@@ -13,5 +13,8 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/JARs"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/SpringJars"/>
+	<classpathentry kind="lib" path="C:/EclipseJavaTomcat/commons-logging-1.2/commons-logging-1.2.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
