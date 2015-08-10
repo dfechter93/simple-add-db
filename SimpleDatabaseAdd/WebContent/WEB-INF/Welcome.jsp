@@ -7,6 +7,23 @@
 <title>Insert title here</title>
 </head>
 <body>
-Welcome
+<h3> The Online Bank</h3>
+
+Please fill out the following form: 
+
+<form action="demo_form.asp">
+
+Name: <input type="text" name="Name" ><br>
+Age: <input type="text" name="Age"><br>
+<select>
+  <option value="male">Male</option>
+  <option value="saab">Female</option>
+
+</select>
+<input type="submit" value="Submit">
+</form>
+
+
 </body>
 </html>
+
